@@ -1,4 +1,4 @@
-# docker-ruby
+# docker-debian-ruby
 
 a Dockerfile for ruby 2.0.0, bundler, and foreman on stable Debian
 
