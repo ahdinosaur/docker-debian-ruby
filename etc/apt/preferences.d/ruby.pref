@@ -1,0 +1,7 @@
+Package: ruby2.0
+Pin: release a=jessie
+Pin-Priority: 600
+
+Package: bundler
+Pin: release a=jessie
+Pin-Priority: 600
